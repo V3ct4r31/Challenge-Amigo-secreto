@@ -1,7 +1,7 @@
-Juego del Amigo Secreto
+Juego del Amigo Secreto:
 Este es un programa para realizar el tradicional juego de Amigo Secreto de forma digital. Permite asignar aleatoriamente a los participantes un "amigo secreto", generando la sorpresa y emoción de manera automatizada.
 
-Cómo usarlo
+Cómo usarlo:
 Clonar o descargar el repositorio:https://github.com/V3ct4r31/Challenge-Amigo-secreto.git
 
 Abrir los archivos:
@@ -13,13 +13,13 @@ app.js: La lógica del juego.
 Ejecutar el proyecto:
 Abre el archivo index.html en tu navegador para ver el juego en acción.
 
-Tecnologías utilizadas
+Tecnologías utilizadas:
 HTML: Estructura básica del sitio web.
 CSS: Estilos para la presentación visual del juego.
 JavaScript: Lógica para asignar aleatoriamente los amigos secretos y mostrar los resultados.
 
-Contribuir
+Contribuir:
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar un pull request con tus mejoras. ¡Cualquier contribución es bienvenida!
 
-Licencia
+Licencia:
 Este proyecto está bajo la Licencia MIT. 
